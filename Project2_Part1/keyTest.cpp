@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 #include "DES.h"
 #include <bitset>
 #include <iostream>
@@ -36,7 +36,7 @@ int main()
     testKey[testKey.size() - 1] = lastBit;  
 
     cout << testKey; 
-    return 0;*/ 
+    return 0; 
 
     string hexString = "0000001011111111101000110111010011101011010101011111010101111011";
 
@@ -97,5 +97,4 @@ int main()
             cout << finalKey[z];
         }
         cout << endl;
-    }
-}
+    } */

@@ -3,6 +3,8 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include "operations.cpp"
+#include "key_scheduler.cpp"
 using namespace std;
 
 int main() {
