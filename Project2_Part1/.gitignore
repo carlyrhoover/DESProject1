@@ -1,0 +1,9 @@
+*.obj
+*.exe
+*.ilk
+*.pdb
+.vscode
+lib/** 
+*.exp
+*.lib
+*.xpl
